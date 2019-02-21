@@ -1,2 +1,2 @@
-# Monster-Fight
+# MonsterCard
 Card Game Project
